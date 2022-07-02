@@ -1,0 +1,16 @@
+{
+  "name": "new_chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ajay gurjar",
+  "license": "ISC",
+  "dependencies": {
+    "io": "^1.0.4",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  },
+  "description": ""
+}
